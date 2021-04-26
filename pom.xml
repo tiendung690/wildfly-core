@@ -79,7 +79,7 @@
             For example: <version.org.jboss.hal.release-stream>
          -->
 
-        <version.commons-io>2.4</version.commons-io>
+        <version.commons-io>2.7</version.commons-io>
         <version.commons-lang>2.6</version.commons-lang>
         <version.io.undertow>1.3.14.Final</version.io.undertow>
         <version.javax.inject.javax.inject>1</version.javax.inject.javax.inject>
